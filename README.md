@@ -1,4 +1,3 @@
-
 # 👗 Fashion Website
 
 Welcome to my **Fashion Website** project! This is a beautifully designed, fashion-themed landing page,also for mobile devices with a width of **600px or less**.
